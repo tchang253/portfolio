@@ -11,7 +11,7 @@ export default function Home() {
   };
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      Hi, this is my Portfolio. It is not done yet, check back in the future!
+      Hi, Robert! I dont understand what is going on. 
       <div>{count}</div>
       <button className="bg-slate-300 p-4 text-3xl" onClick={() => setCount(count - 1)}>
         -
